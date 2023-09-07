@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="secondnum" type="id" />
+    <item name="firstnum" type="id" />
+    <item name="btnresult" type="id" />
+    <item name="txtresult" type="id" />
+</resources>
